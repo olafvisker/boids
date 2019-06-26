@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+canvas {
+    display:block;
+}
+
+#fps {
+    position: absolute;
+}
